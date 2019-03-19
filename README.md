@@ -1,11 +1,11 @@
 # company_sales_forecast
-- using historical salesforce.com pipeline to predict quarterly finish
+- Using historical salesforce.com pipeline to predict quarterly finish
 
-- sql for etl and feature engineering
+- SQL for ETL and feature engineering
 
-- numpy and pandas for feature engineering
+- Numpy, Pandas, and Scalers for feature engineering
 
-- sklearn models for training and prediction
+- Sklearn models for training and prediction (each model is a seperate notebook)
   1. linear regression
   2. random forest
   
