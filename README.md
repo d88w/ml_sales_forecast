@@ -6,6 +6,6 @@
 - Numpy, Pandas, and Scalers for feature engineering
 
 - Sklearn models for training and prediction (each model is a seperate notebook)
-  1. Linear Regression
-  2. Random Forest
+  1. Linear Regression - performs ok
+  2. Random Forest - performs better
   
