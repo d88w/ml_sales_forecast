@@ -1,5 +1,7 @@
 ### Company Sales Forecast - Machine Learning
 
+- Supervised learning
+
 - Using historical salesforce.com pipeline to predict quarterly bookings finish
 
 - SQL for ETL and feature engineering
