@@ -1,5 +1,7 @@
 ### Company Sales Forecast - Machine Learning
 
+Scikit-Learn / Salesforce Pipeline / Sales Forecast / Supervised Learning
+
 - Supervised learning
 
 - Using historical Salesforce.com pipeline (opportunity_history) to predict quarterly bookings finish
