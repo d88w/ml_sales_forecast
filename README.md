@@ -13,4 +13,3 @@ Scikit-Learn / Salesforce Pipeline / Sales Forecast / Supervised Learning
 - Sklearn models for training and prediction (each model is a seperate notebook)
 
 - Pickle for storing and retrieving model
-
