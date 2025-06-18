@@ -1,15 +1,23 @@
-### Company Sales Forecast - Machine Learning
+📈 Company Sales Forecast – Machine Learning
 
-Scikit-Learn / Salesforce Pipeline / Sales Forecast / Supervised Learning
+A supervised learning project that uses historical Salesforce pipeline data to forecast quarterly bookings.
 
-- Supervised learning
+🔍 Overview
 
-- Using historical Salesforce.com pipeline (opportunity_history) to predict quarterly bookings finish
+This project builds machine learning models to predict end-of-quarter sales bookings using data from Salesforce (opportunity_history). It demonstrates a full ML pipeline from data extraction to model deployment.
 
-- SQL for ETL and feature engineering
+⚙️ Key Components
+- Data Source: Historical Salesforce pipeline data
+- ETL & Feature Engineering:
+  - SQL for extracting and transforming data
+  - NumPy, Pandas, and scaling techniques for feature engineering
+- Modeling:
+  - Multiple supervised learning models built using scikit-learn
+  - Each model lives in its own notebook for modular experimentation
+- Model Persistence:
+  - Models are saved and loaded using pickle
 
-- Numpy, Pandas, and Scalers for feature engineering
-
-- Sklearn models for training and prediction (each model is a seperate notebook)
-
-- Pickle for storing and retrieving model
+🧪 Use Cases
+- Forecasting sales performance before quarter-end
+- Identifying leading indicators of pipeline health
+- Supporting RevOps and sales leadership decision-making
